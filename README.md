@@ -10,7 +10,7 @@
   <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">🤔 Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
   <a href="#-como-executar">🔖 Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#memo-licença">🧾 Licença</a>
+  <a href="#memo-licença">🧾 Licença</a>
 </p>
 
 ## 🚀 Tecnologias
@@ -27,13 +27,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🌐 Frontend
 
 <h1 align="center">
-    
-<img alt="Aplicação web" src="frontend/.github/bethehero_web.svg" width="70%" height="70%" />
-    
-<img alt="Aplicação Mobile" src="frontend/.github/bethehero_mobile.svg" width="70%" height="70%" />
-    
-<img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_mobile.gif" width="40%" height="40%"/>
-
+    <p align="center">    
+        <img alt="Aplicação web" src="frontend/.github/bethehero_web.svg" width="70%" height="70%" />
+    </p>
+    <p align="center"> 
+        <img alt="Aplicação Mobile" src="frontend/.github/bethehero_mobile.svg" width="70%" height="70%" />
+    </p>
+    <p align="center"> 
+        <img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_mobile.gif" width="40%" height="40%"/>
+    </p>
 </h1>
 
 ## 🔖 Como Executar
