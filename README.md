@@ -5,10 +5,8 @@
 <p align="center">
   <a href="#rocket-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-backend">🔨 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">🌐 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">🤔 Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
   <a href="#-como-executar">🔖 Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">🧾 Licença</a>
 </p>
@@ -24,7 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Jest](https://jestjs.io/)
 - [Celebrate](https://github.com/arb/celebrate)
 
-## 🌐 Frontend
+## 💻 Projeto
+
+O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
 
 <h1 align="center">
     <p align="center">    
@@ -33,11 +33,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <p align="center"> 
         <img alt="Aplicação Mobile" src="frontend/.github/bethehero_mobile.svg" width="70%" height="70%" />
     </p>
+</h1>
+
+## 🌐 Frontend
+<h1 align="center">
+    <p align="center"> 
+        <img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_web.gif" />
+    </p>
+</h1>
+
+## 📱 Mobile
+<h1 align="center">
     <p align="center"> 
         <img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_mobile.gif" width="35%" height="35%"/>
-    </p>
-    <p align="center"> 
-        <img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_web.gif" width="40%" height="40%"/>
     </p>
 </h1>
 
