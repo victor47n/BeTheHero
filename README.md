@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <h1 align="center">
 <img alt="Aplicação web" src="frontend/.github/bethehero_web.svg" width="70%" height="70%" />
 <img alt="Aplicação Mobile" src="frontend/.github/bethehero_mobile.svg" width="70%" height="70%" />
-<img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_mobile.gif" width="70%" height="70%" />
+<img alt="Funcionalidades da aplicação mobile" src="frontend/.github/bethehero_mobile.gif" />
 </h1>
 
 ## 🔖 Como Executar
